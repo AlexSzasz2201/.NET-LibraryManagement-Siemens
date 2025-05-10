@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "BookId": 1,
+    "BorrowerName": "Alex",
+    "BorrowerEmail": "alexszasz62@gmail.com",
+    "BorrowDate": "2025-05-10T22:06:41.9895677+03:00",
+    "DueDate": "2025-05-12T22:06:42.0424702+03:00",
+    "ReturnDate": "2025-05-10T22:06:57.2052896+03:00",
+    "IsReturned": true,
+    "IsOverdue": false,
+    "DaysOverdue": 0
+  }
+]
